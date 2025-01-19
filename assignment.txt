@@ -1,0 +1,4 @@
+#Today i have learned following scenario's
+1. To create new branchs and within that branches along with directory and folders 
+2.i have learned multiple git command and staging commants related to git
+3.Discussed Aws, CI/CD, Docker, Kubernetics with Rajesh
