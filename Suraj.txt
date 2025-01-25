@@ -1,0 +1,4 @@
+Shubham Suraj first file 
+
+#to check linux commands
+Nano command checking
